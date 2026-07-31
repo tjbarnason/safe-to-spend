@@ -1,5 +1,7 @@
 # Safe to Spend
 
+🔗 **[Live Demo](https://safe-to-spend-pied.vercel.app/)** · No login required
+
 > **Most banking apps answer, "How much money do I have?"**
 >
 > **Safe to Spend answers a more important question:**
