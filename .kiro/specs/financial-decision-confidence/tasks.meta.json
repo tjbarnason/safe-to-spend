@@ -1,0 +1,457 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Initialize Next.js 14+ project with App Router, TypeScript, and Tailwind CSS": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234185
+      },
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449244253
+      },
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450315588
+      }
+    ],
+    "2.1 Define all TypeScript domain interfaces and types": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234273
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450538196
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450633833
+      }
+    ],
+    "2.2 Implement DataProvider interface and MockDataProvider": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234358
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450638790
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450823526
+      }
+    ],
+    "3.1 Implement obligation detection core logic": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234389
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450846944
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451011386
+      }
+    ],
+    "4.1 Implement income prediction core logic": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234419
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450847658
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451011988
+      }
+    ],
+    "5. Checkpoint — Core pattern detection": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234449
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451028774
+      }
+    ],
+    "6.1 Implement Position Engine": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234478
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451033482
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451226652
+      }
+    ],
+    "6.2 Implement Consequence Simulator": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234511
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451230943
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451353100
+      }
+    ],
+    "7. Checkpoint — Domain services complete": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234539
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451360965
+      }
+    ],
+    "8.1 Implement API route handlers": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234568
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451366030
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451519171
+      }
+    ],
+    "8.2 Implement formatting and utility functions": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234618
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451366625
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451520113
+      }
+    ],
+    "9.1 Build Position Card and dashboard page": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234658
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451530362
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451895214
+      }
+    ],
+    "10.1 Build Position Detail page with timeline": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234685
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451899945
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452325974
+      }
+    ],
+    "10.2 Build Consequence Explorer page": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234714
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451900949
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452326683
+      }
+    ],
+    "11.1 Build Heads-Up Banner and integrate alerts": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234742
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452341676
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452739001
+      }
+    ],
+    "11.2 Implement loading states, empty states, error handling, and accessibility": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234767
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452743392
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452867062
+      }
+    ],
+    "12. Checkpoint — Full application working": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234793
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452876446
+      }
+    ],
+    "13.1 Write README and finalize documentation": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785449234817
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452880638
+      },
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785453006777
+      }
+    ],
+    "1. Project scaffolding and configuration": [
+      {
+        "executionId": "a4946a4c-bfa0-435e-ac4b-da5a490aeb5f",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450315622
+      }
+    ],
+    "2. Domain types and mock data foundation": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450823550
+      }
+    ],
+    "2.3 Write unit tests for mock data provider": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785450842176
+      }
+    ],
+    "3. Obligation Detector service": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451011407
+      }
+    ],
+    "4. Income Predictor service": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451012009
+      }
+    ],
+    "3.2 Write property-based tests for obligation detection": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451021766
+      }
+    ],
+    "3.3 Write unit tests for obligation detection": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451022560
+      }
+    ],
+    "4.2 Write property-based tests for income prediction": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451023361
+      }
+    ],
+    "4.3 Write unit tests for income prediction": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451024116
+      }
+    ],
+    "6. Position Engine and Consequence Simulator": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451353123
+      }
+    ],
+    "6.3 Write property-based tests for Position Engine": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451358350
+      }
+    ],
+    "6.4 Write property-based tests for Consequence Simulator": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451359227
+      }
+    ],
+    "6.5 Write unit tests for Position Engine and Consequence Simulator": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451360060
+      }
+    ],
+    "8. API layer and utility functions": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451520133
+      }
+    ],
+    "8.3 Write property-based test for currency formatting": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451524748
+      }
+    ],
+    "8.4 Write integration tests for API routes": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451525611
+      }
+    ],
+    "9. Dashboard and Position Card UI": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785451895259
+      }
+    ],
+    "10. Position Detail, Timeline, and Consequence Explorer": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452326711
+      }
+    ],
+    "10.3 Write component tests for detail pages and explorer": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452331871
+      }
+    ],
+    "9.2 Write component tests for Position Card": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452337525
+      }
+    ],
+    "11. Proactive Heads-Up and polish": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452867085
+      }
+    ],
+    "11.3 Write component tests for alerts and error states": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785452871764
+      }
+    ],
+    "13. README, documentation, and deployment readiness": [
+      {
+        "executionId": "5b479266-c6ac-4815-9e4e-f6bef14d5cf4",
+        "chatSessionId": "sess_dfa425b8-9582-4370-9f29-97e01d103ca8",
+        "timestamp": 1785453006849
+      }
+    ]
+  }
+}
