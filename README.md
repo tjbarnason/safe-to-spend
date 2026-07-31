@@ -125,7 +125,7 @@ Recommending → "Here's what you should do about it" ← Safe to Spend
 **Prerequisites:** Node.js 18+
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/tjbarnason/safe-to-spend.git
 cd safe-to-spend
 npm install
 npm run dev
